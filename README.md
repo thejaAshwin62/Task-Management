@@ -5,21 +5,24 @@ A modern, responsive task management application designed with React and DaisyUI
 ## 📸 Application Screenshots
 
 ### Light Mode
-![Light Mode](src/assets/screenshots/lightMode.png)
+<img src="https://github.com/thejaAshwin62/Task-Management/raw/main/screenshots/lightMode.png" alt="Light Mode" width="800"/>
+
 *Light mode provides a clean, bright interface perfect for daytime use. Features include:*
 - Clear task visibility with contrasting colors
 - Easily distinguishable priority badges
 - Intuitive button and input styling
 
 ### Dark Mode
-![Dark Mode](src/assets/screenshots/darkMode.png)
+<img src="https://github.com/thejaAshwin62/Task-Management/raw/main/screenshots/darkMode.png" alt="Dark Mode" width="800"/>
+
 *Dark mode offers a comfortable viewing experience in low-light conditions. Features include:*
 - Reduced eye strain with darker background
 - Maintained readability with proper contrast
 - Consistent priority indicators and interactive elements
 
 ### Mobile View
-![Mobile View](src/assets/screenshots/mobile.png)
+<img src="https://github.com/thejaAshwin62/Task-Management/raw/main/screenshots/mobile.png" alt="Mobile View" width="400"/>
+
 *Responsive mobile design ensures full functionality on smaller screens:*
 - Optimized layout for touch interactions
 - Fully accessible features
