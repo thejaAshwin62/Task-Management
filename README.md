@@ -18,7 +18,7 @@ A modern, responsive task management application designed with React and DaisyUI
 
 ## 🌐 Live Demo
 
-Experience the app in action: [Live Demo](https://task-management-theja.netlify.app/)
+Experience the app in action: [Live Demo](https://task-managerio.netlify.app/)
 
 ## 🛠 Tech Stack
 
